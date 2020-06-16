@@ -1,5 +1,5 @@
 (function() {
-  console.log(document.getElementsByTagName("BODY")[0]);
-  document.getElementsByTagName("BODY")[0].style.backgroundColor='red';
-  document.getElementsByTagName("BODY")[0].innerHTML='pwned';
+  console.log(document.getElementsByTagName("body")[0]);
+  document.getElementsByTagName("body")[0].style.backgroundColor='red';
+  document.getElementsByTagName("body")[0].innerHTML='pwned';
 })();
